@@ -1,0 +1,13 @@
+
+
+CONTACT:
+
+
+It looks good specially the color of the back-ground[#E28b55;]that is withe container element is amazing.  This color is distributed through out all the 
+Web pages. The design of the header and footer is quit the same there color is more thicker than the back-ground color but is cool.
+      
+            Body [Text color] = #0a0505;
+            HEADER and FOOTER color= #dab278;
+            Link color = #0000ff;
+            Background color = #ebd2c2;
+ 
