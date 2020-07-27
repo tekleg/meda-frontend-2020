@@ -3,7 +3,10 @@ PROJECTS  :
 
 
 It looks good specially the color of the back-ground[#E28b55;]that is withe container element is amazing.  This color is distributed through out all the 
-Web pages. The design of the header and footer is quit the same there color is more thicker than the back-ground color but is cool.
+Web pages. The design of the header and footer is quit the same there color is more thicker than the back-ground color but is cool.This as a 
+Real project, you can need to show the customer 2-3 times before starting Design. Once they satisfied with the design then you will proceed to the final design 
+
+
       
             Body [Text color] = #0a0505;
             HEADER and FOOTER color= #dab278;
