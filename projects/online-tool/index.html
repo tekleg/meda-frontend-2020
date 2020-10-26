@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        
+    <link rel="stylesheet" href="styles/styles.css" />
+  
+  
+    <script>
+      
+      function countWords()
+      {
+        var text = document.getElementById("inputTextField").value;
+        var numWords = 0;
+       /* for (var i = 0; i <text.length; i++)
+        {
+          var currentCharacter = text[i];
+          if (currentCharacter == ' ')
+          {
+            numWords += 1;
+          } 
+        }
+        numWords += 1;  */
+        numWords = text.split(' ').length;
+        document.getElementById("numWordsOutput").innerHTML = numWords + " words";
+      }
+    </script>    
+    </head>
+    <body>
+      <div id="container">
+      <h1>Count the amount of words</h1>
+      <textarea id="inputTextField" rows=10 cols=50></textarea>
+      <br> </br>
+    <div id="hor">
+        <ul>
+          <li> 
+      <button id="ttet" onclick="countWords()">Count Words</button>
+    </li>
+     <li>
+      <div id = "numWordsOutput"> 0 Words</div>
+    </li>
+  </ul>
+      </div>
+      </div>
+    </body>
+    </html>
+
+   
+            
+       
